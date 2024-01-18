@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-35\factorial\bin\Debug\factorial.exe.config
+C:\C#.net\Class videos\video-35\factorial\bin\Debug\factorial.exe
+C:\C#.net\Class videos\video-35\factorial\bin\Debug\factorial.pdb
+C:\C#.net\Class videos\video-35\factorial\obj\Debug\factorial.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-35\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-35\factorial\obj\Debug\factorial.exe
+C:\C#.net\Class videos\video-35\factorial\obj\Debug\factorial.pdb

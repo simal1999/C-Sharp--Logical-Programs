@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-35\multiplication of an given range\bin\Debug\multiplication of an given range.exe.config
+C:\C#.net\Class videos\video-35\multiplication of an given range\bin\Debug\multiplication of an given range.exe
+C:\C#.net\Class videos\video-35\multiplication of an given range\bin\Debug\multiplication of an given range.pdb
+C:\C#.net\Class videos\video-35\multiplication of an given range\obj\Debug\multiplication of an given range.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-35\multiplication of an given range\obj\Debug\multiplication of an given range.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-35\multiplication of an given range\obj\Debug\multiplication of an given range.exe
+C:\C#.net\Class videos\video-35\multiplication of an given range\obj\Debug\multiplication of an given range.pdb

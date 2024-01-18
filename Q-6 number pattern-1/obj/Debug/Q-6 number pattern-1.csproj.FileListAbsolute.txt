@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-35\Q-6 number pattern-1\bin\Debug\Q-6 number pattern-1.exe.config
+C:\C#.net\Class videos\video-35\Q-6 number pattern-1\bin\Debug\Q-6 number pattern-1.exe
+C:\C#.net\Class videos\video-35\Q-6 number pattern-1\bin\Debug\Q-6 number pattern-1.pdb
+C:\C#.net\Class videos\video-35\Q-6 number pattern-1\obj\Debug\Q-6 number pattern-1.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-35\Q-6 number pattern-1\obj\Debug\Q-6 number pattern-1.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-35\Q-6 number pattern-1\obj\Debug\Q-6 number pattern-1.exe
+C:\C#.net\Class videos\video-35\Q-6 number pattern-1\obj\Debug\Q-6 number pattern-1.pdb

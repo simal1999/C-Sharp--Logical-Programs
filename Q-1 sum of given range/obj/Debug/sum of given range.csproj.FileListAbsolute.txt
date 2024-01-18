@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-35\sum of given range\bin\Debug\sum of given range.exe.config
+C:\C#.net\Class videos\video-35\sum of given range\bin\Debug\sum of given range.exe
+C:\C#.net\Class videos\video-35\sum of given range\bin\Debug\sum of given range.pdb
+C:\C#.net\Class videos\video-35\sum of given range\obj\Debug\sum of given range.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-35\sum of given range\obj\Debug\sum of given range.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-35\sum of given range\obj\Debug\sum of given range.exe
+C:\C#.net\Class videos\video-35\sum of given range\obj\Debug\sum of given range.pdb

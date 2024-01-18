@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-35\swaping two  numbers\bin\Debug\swaping two  numbers.exe.config
+C:\C#.net\Class videos\video-35\swaping two  numbers\bin\Debug\swaping two  numbers.exe
+C:\C#.net\Class videos\video-35\swaping two  numbers\bin\Debug\swaping two  numbers.pdb
+C:\C#.net\Class videos\video-35\swaping two  numbers\obj\Debug\swaping two  numbers.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-35\swaping two  numbers\obj\Debug\swaping two  numbers.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-35\swaping two  numbers\obj\Debug\swaping two  numbers.exe
+C:\C#.net\Class videos\video-35\swaping two  numbers\obj\Debug\swaping two  numbers.pdb

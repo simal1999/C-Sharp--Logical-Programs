@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-35\Q-5 swapping two numbers without using third variable\bin\Debug\Q-5 swapping two numbers without using third variable.exe.config
+C:\C#.net\Class videos\video-35\Q-5 swapping two numbers without using third variable\bin\Debug\Q-5 swapping two numbers without using third variable.exe
+C:\C#.net\Class videos\video-35\Q-5 swapping two numbers without using third variable\bin\Debug\Q-5 swapping two numbers without using third variable.pdb
+C:\C#.net\Class videos\video-35\Q-5 swapping two numbers without using third variable\obj\Debug\Q-5 swapping two numbers without using third variable.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-35\Q-5 swapping two numbers without using third variable\obj\Debug\Q-5 swapping two numbers without using third variable.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-35\Q-5 swapping two numbers without using third variable\obj\Debug\Q-5 swapping two numbers without using third variable.exe
+C:\C#.net\Class videos\video-35\Q-5 swapping two numbers without using third variable\obj\Debug\Q-5 swapping two numbers without using third variable.pdb
