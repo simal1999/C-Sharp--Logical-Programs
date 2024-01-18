@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-35 logical programs\Q-8 printing even numbers sum of even numbers and count of even numbers\bin\Debug\Q-8 printing even numbers sum of even numbers and count of even numbers.exe.config
+C:\C#.net\Class videos\video-35 logical programs\Q-8 printing even numbers sum of even numbers and count of even numbers\bin\Debug\Q-8 printing even numbers sum of even numbers and count of even numbers.exe
+C:\C#.net\Class videos\video-35 logical programs\Q-8 printing even numbers sum of even numbers and count of even numbers\bin\Debug\Q-8 printing even numbers sum of even numbers and count of even numbers.pdb
+C:\C#.net\Class videos\video-35 logical programs\Q-8 printing even numbers sum of even numbers and count of even numbers\obj\Debug\Q-8 printing even numbers sum of even numbers and count of even numbers.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-35 logical programs\Q-8 printing even numbers sum of even numbers and count of even numbers\obj\Debug\Q-8 printing even numbers sum of even numbers and count of even numbers.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-35 logical programs\Q-8 printing even numbers sum of even numbers and count of even numbers\obj\Debug\Q-8 printing even numbers sum of even numbers and count of even numbers.exe
+C:\C#.net\Class videos\video-35 logical programs\Q-8 printing even numbers sum of even numbers and count of even numbers\obj\Debug\Q-8 printing even numbers sum of even numbers and count of even numbers.pdb

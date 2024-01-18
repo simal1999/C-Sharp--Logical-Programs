@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-35 logical programs\Q-9 list of odd numbers,sum and count of odd numbers\bin\Debug\Q-9 list of odd numbers,sum and count of odd numbers.exe.config
+C:\C#.net\Class videos\video-35 logical programs\Q-9 list of odd numbers,sum and count of odd numbers\bin\Debug\Q-9 list of odd numbers,sum and count of odd numbers.exe
+C:\C#.net\Class videos\video-35 logical programs\Q-9 list of odd numbers,sum and count of odd numbers\bin\Debug\Q-9 list of odd numbers,sum and count of odd numbers.pdb
+C:\C#.net\Class videos\video-35 logical programs\Q-9 list of odd numbers,sum and count of odd numbers\obj\Debug\Q-9 list of odd numbers,sum and count of odd numbers.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-35 logical programs\Q-9 list of odd numbers,sum and count of odd numbers\obj\Debug\Q-9 list of odd numbers,sum and count of odd numbers.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-35 logical programs\Q-9 list of odd numbers,sum and count of odd numbers\obj\Debug\Q-9 list of odd numbers,sum and count of odd numbers.exe
+C:\C#.net\Class videos\video-35 logical programs\Q-9 list of odd numbers,sum and count of odd numbers\obj\Debug\Q-9 list of odd numbers,sum and count of odd numbers.pdb

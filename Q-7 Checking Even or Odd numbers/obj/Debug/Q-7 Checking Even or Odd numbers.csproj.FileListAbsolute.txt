@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-35 logical programs\Q-7 Checking Even or Odd numbers\bin\Debug\Q-7 Checking Even or Odd numbers.exe.config
+C:\C#.net\Class videos\video-35 logical programs\Q-7 Checking Even or Odd numbers\bin\Debug\Q-7 Checking Even or Odd numbers.exe
+C:\C#.net\Class videos\video-35 logical programs\Q-7 Checking Even or Odd numbers\bin\Debug\Q-7 Checking Even or Odd numbers.pdb
+C:\C#.net\Class videos\video-35 logical programs\Q-7 Checking Even or Odd numbers\obj\Debug\Q-7 Checking Even or Odd numbers.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-35 logical programs\Q-7 Checking Even or Odd numbers\obj\Debug\Q-7 Checking Even or Odd numbers.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-35 logical programs\Q-7 Checking Even or Odd numbers\obj\Debug\Q-7 Checking Even or Odd numbers.exe
+C:\C#.net\Class videos\video-35 logical programs\Q-7 Checking Even or Odd numbers\obj\Debug\Q-7 Checking Even or Odd numbers.pdb
