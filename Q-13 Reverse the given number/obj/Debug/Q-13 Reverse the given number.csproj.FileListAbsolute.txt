@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-36 logical programs\Q-13 Reverse the given number\bin\Debug\Q-13 Reverse the given number.exe.config
+C:\C#.net\Class videos\video-36 logical programs\Q-13 Reverse the given number\bin\Debug\Q-13 Reverse the given number.exe
+C:\C#.net\Class videos\video-36 logical programs\Q-13 Reverse the given number\bin\Debug\Q-13 Reverse the given number.pdb
+C:\C#.net\Class videos\video-36 logical programs\Q-13 Reverse the given number\obj\Debug\Q-13 Reverse the given number.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-36 logical programs\Q-13 Reverse the given number\obj\Debug\Q-13 Reverse the given number.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-36 logical programs\Q-13 Reverse the given number\obj\Debug\Q-13 Reverse the given number.exe
+C:\C#.net\Class videos\video-36 logical programs\Q-13 Reverse the given number\obj\Debug\Q-13 Reverse the given number.pdb

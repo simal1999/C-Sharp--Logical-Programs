@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-36 logical programs\Q-14 Checking given number is palindrome or not\obj\Debug\Q-14 Checking given number is palindrome or not.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-36 logical programs\Q-14 Checking given number is palindrome or not\obj\Debug\Q-14 Checking given number is palindrome or not.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-36 logical programs\Q-14 Checking given number is palindrome or not\bin\Debug\Q-14 Checking given number is palindrome or not.exe.config
+C:\C#.net\Class videos\video-36 logical programs\Q-14 Checking given number is palindrome or not\bin\Debug\Q-14 Checking given number is palindrome or not.exe
+C:\C#.net\Class videos\video-36 logical programs\Q-14 Checking given number is palindrome or not\bin\Debug\Q-14 Checking given number is palindrome or not.pdb
+C:\C#.net\Class videos\video-36 logical programs\Q-14 Checking given number is palindrome or not\obj\Debug\Q-14 Checking given number is palindrome or not.exe
+C:\C#.net\Class videos\video-36 logical programs\Q-14 Checking given number is palindrome or not\obj\Debug\Q-14 Checking given number is palindrome or not.pdb

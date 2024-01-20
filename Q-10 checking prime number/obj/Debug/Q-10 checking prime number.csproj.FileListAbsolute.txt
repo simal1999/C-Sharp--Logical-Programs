@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-36 logical programs\Q-10 checking prime number\bin\Debug\Q-10 checking prime number.exe.config
+C:\C#.net\Class videos\video-36 logical programs\Q-10 checking prime number\bin\Debug\Q-10 checking prime number.exe
+C:\C#.net\Class videos\video-36 logical programs\Q-10 checking prime number\bin\Debug\Q-10 checking prime number.pdb
+C:\C#.net\Class videos\video-36 logical programs\Q-10 checking prime number\obj\Debug\Q-10 checking prime number.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-36 logical programs\Q-10 checking prime number\obj\Debug\Q-10 checking prime number.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-36 logical programs\Q-10 checking prime number\obj\Debug\Q-10 checking prime number.exe
+C:\C#.net\Class videos\video-36 logical programs\Q-10 checking prime number\obj\Debug\Q-10 checking prime number.pdb
